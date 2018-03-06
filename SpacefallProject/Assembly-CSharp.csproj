@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{20D5E328-C088-3104-67C9-BF70FD724F75}</ProjectGuid>
+    <ProjectGuid>{146E64A4-692C-C267-F70A-81BC5F8B44D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,6 +59,8 @@
      <Compile Include="Assets\Scripts\VRJoystickAndSteeringWheel-master\VR Joystick &amp; Steering\Assets\Scripts\rotorController.cs" />
      <Compile Include="Assets\Scripts\VRJoystickAndSteeringWheel-master\VR Joystick &amp; Steering\Assets\Scripts\SteeringWheelController.cs" />
      <Compile Include="Assets\Scripts\WheelBehavior.cs" />
+     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
+     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
