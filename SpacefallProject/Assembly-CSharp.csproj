@@ -54,11 +54,16 @@
      <Compile Include="Assets\Scripts\CarRotationBehavior.cs" />
      <Compile Include="Assets\Scripts\InputManager.cs" />
      <Compile Include="Assets\Scripts\Interactions.cs" />
+     <Compile Include="Assets\Scripts\IntroScene\LoadSceneManager.cs" />
+     <Compile Include="Assets\Scripts\IntroScene\SceneFadeBehavior.cs" />
+     <Compile Include="Assets\Scripts\RoofCloses.cs" />
+     <Compile Include="Assets\Scripts\Utilities.cs" />
      <Compile Include="Assets\Scripts\VRJoystickAndSteeringWheel-master\VR Joystick &amp; Steering\Assets\Scripts\ControlsManager.cs" />
      <Compile Include="Assets\Scripts\VRJoystickAndSteeringWheel-master\VR Joystick &amp; Steering\Assets\Scripts\PlaneController.cs" />
      <Compile Include="Assets\Scripts\VRJoystickAndSteeringWheel-master\VR Joystick &amp; Steering\Assets\Scripts\rotorController.cs" />
      <Compile Include="Assets\Scripts\VRJoystickAndSteeringWheel-master\VR Joystick &amp; Steering\Assets\Scripts\SteeringWheelController.cs" />
      <Compile Include="Assets\Scripts\WheelBehavior.cs" />
+     <Compile Include="Assets\Scripts\WheelCollisionManager.cs" />
      <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
      <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
@@ -163,8 +168,6 @@
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_TrackedObject.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
-     <Compile Include="Assets\Utilities.cs" />
-     <Compile Include="Assets\WheelCollisionManager.cs" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
